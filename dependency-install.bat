@@ -1,4 +1,4 @@
-pip install pyinstaller
+ pip install pyinstaller
 pip install numpy
 pip install pydub
 pip install luaparser
